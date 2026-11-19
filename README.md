@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Aryan Sharma 👋
 
-<!--
-**AryanSharma369/AryanSharma369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Electronics and Communication Engineering Student | Aspiring Embedded Systems Engineer
 
-Here are some ideas to get you started:
+I'm an Electronics and Communication Engineering student interested in embedded systems, microcontrollers, and Embedded Linux.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently building my foundations in C programming, electronics, and hardware-software integration while working towards a career in the embedded systems industry.
+
+### 🎯 Areas of Interest
+- Embedded Systems
+- Embedded C Programming
+- Microcontrollers (ESP32 / STM32)
+- Embedded Linux
+- Digital Electronics
+- Hardware-Software Integration
+
+### 📚 Currently Learning
+- C Programming
+- Microcontroller Fundamentals
+- Linux Fundamentals
+- Embedded Systems Development
+
+### 🚀 Goals
+- Build practical electronics and embedded projects.
+- Develop strong programming and debugging skills.
+- Gain hands-on experience with microcontrollers.
+- Prepare for an entry-level electronics/embedded engineering role.
+
+### 📫 Connect With Me
+- GitHub: https://github.com/AryanSharma369
